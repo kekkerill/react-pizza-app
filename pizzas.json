@@ -1,0 +1,104 @@
+{
+  "pizzas": [
+    {
+      "id": 0,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwG28vbQRHlaRjKnX4BLYfy4EsTBMEnsrCwg&s",
+      "title": "Пепперони Фреш",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 803,
+      "category": 3,
+      "rating": 4
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://cdn-irec.r-99.com/sites/default/files/imagecache/300o/product-images/238168/qbwB861hSpkBNnu5EDLMwA.jpg",
+      "title": "Сырная",
+      "types": [0],
+      "sizes": [26, 40],
+      "price": 245,
+      "category": 2,
+      "rating": 6
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://cdn-irec.r-99.com/sites/default/files/imagecache/300o/product-images/720173/1CYFwTGbXWiR5k9V2GlA.jpg",
+      "title": "Цыпленок барбекю",
+      "types": [0],
+      "sizes": [26, 40],
+      "price": 295,
+      "category": 1,
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfMGrUZiW1igo-JO6Q3ncMhrnP0KiCkFnyIw&s",
+      "title": "Кисло-сладкий цыпленок",
+      "types": [1],
+      "sizes": [26, 30, 40],
+      "price": 275,
+      "category": 4,
+      "rating": 2
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://cdn-irec.r-99.com/sites/default/files/imagecache/300o/product-images/278223/XRIa4KxVJxkTmHSqcYXbg.jpg",
+      "title": "Чизбургер-пицца",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 415,
+      "category": 3,
+      "rating": 8
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://cdn-irec.r-99.com/sites/default/files/imagecache/300o/product-images/556572/lOLlOhISJVFG66YPQUhjgA.jpg",
+      "title": "Крэйзи пепперони",
+      "types": [0],
+      "sizes": [30, 40],
+      "price": 580,
+      "category": 1,
+      "rating": 2
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://cdn-irec.r-99.com/sites/default/files/imagecache/300o/product-images/1516270/6IAtySyGbIMawbFiAtGCKA.jpg",
+      "title": "Пепперони",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 675,
+      "category": 1,
+      "rating": 9
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://cdn-irec.r-99.com/sites/default/files/imagecache/300o/product-images/138315/KXf20NtQwzCxf7MoFnkApg.jpg",
+      "title": "Маргарита",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 450,
+      "category": 4,
+      "rating": 10
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://cdn-irec.r-99.com/sites/default/files/imagecache/300o/product-images/660923/P9xzgAaskddSDCryiqPzcg.png",
+      "title": "Четыре сезона",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 395,
+      "category": 5,
+      "rating": 10
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://cdn-irec.r-99.com/sites/default/files/imagecache/300o/product-images/1424066/eXfFJZgTIkshmhIhOREp8A.png",
+      "title": "Овощи и грибы",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 285,
+      "category": 2,
+      "rating": 7
+    }
+  ]
+}
